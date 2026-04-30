@@ -1,0 +1,34 @@
+<speak>
+  <p>
+    <s>
+      <prosody rate="medium" pitch="-1st">
+        Gorilla:
+        <break time="300ms"/>
+        Did you hear about the gorilla who escaped from the zoo?
+      </prosody>
+    </s>
+
+    <break time="600ms"/>
+
+    <s>
+      <prosody rate="slow" pitch="-2st">
+        Zookeeper:
+        <break time="300ms"/>
+        That is because...
+        <break time="500ms"/>
+        I am a
+        <emphasis level="strong">quiet gorilla</emphasis>.
+      </prosody>
+    </s>
+
+    <break time="700ms"/>
+
+    <s>
+      <prosody rate="fast" pitch="+1st" volume="loud">
+        <emphasis level="moderate">
+          [muffled sounds of gorilla violence]
+        </emphasis>
+      </prosody>
+    </s>
+  </p>
+</speak>
